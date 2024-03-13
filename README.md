@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Pandas, SQL & Tableau<br>🎯 Goals: Master Data Visualization & Data Cleaning<br>🎲 Fun fact: I was so confused about my purpose that I changed school 2 times.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Pandas, SQL & Tableau<br>🎯 Goals: Master Data Visualization & Data Cleaning<br>🎲 Fun fact: I was so confused about my purpose that I've changed school 2 times.</p>
 
 ###
 
