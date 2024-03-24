@@ -11,7 +11,7 @@
 ###
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Pandas, SQL & Tableau<br>🎯 Goals: Master Data Visualization & Data Cleaning<br>
-###
+
 
 <h2 align="left">I code with</h2>
 
