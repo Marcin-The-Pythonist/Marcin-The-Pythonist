@@ -23,6 +23,7 @@
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40"/>
 </div>
 
 ###
