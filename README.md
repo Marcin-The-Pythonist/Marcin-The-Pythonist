@@ -24,6 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40"/>
+  <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2019%E2%80%93present).svg" height="40"/>
 </div>
 
 ###
