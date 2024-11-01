@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a teleinformatics student at Westpomeranian University of Technology. I'm learning to program microcontrollers, diagnose and design fibre optics, and computer networking.<br><br>Before starting my journey at the university I taught myself programming in Python. I know how to leverage the power of Python libraries to scrape, clean, visualize and analyze data.</p>
+<p align="left">I'm a teleinformatics student at Westpomeranian University of Technology. I learn to program microcontrollers, diagnose and design fibre optics, and study computer networking.<br><br>Before starting my journey at the university I taught myself programming in Python. I know how to leverage the power of Python libraries to scrape, clean, visualize and analyze data.</p>
 
 ###
 
