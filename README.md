@@ -8,7 +8,11 @@
 
 ###
 
-<p align="left">I'm a teleinformatics student at Westpomeranian University of Technology. I learn to program microcontrollers, diagnose and design fibre optics, and study computer networking.<br><br>Before starting my journey at the university I taught myself programming in Python. I know how to leverage the power of Python libraries to scrape, clean, visualize and analyze data.</p>
+<p align="left">Self-motivated data analyst with foundations in teleinformatics. Accomplished projects:
+<li>Conducted Exploratory Data Analysis of data science market across the world(2020-2024) uncovering different trends</li>
+<li>Developed an interactive US Superstore dashboard using Tableau to visualize trends and the revenue</li>
+<li>Automated data collection and visualization using Python</li>
+<br><br>.</p>
 
 ###
 
