@@ -12,7 +12,7 @@
 <li>Conducted Exploratory Data Analysis of data science market across the world(2020-2024) uncovering different trends</li>
 <li>Developed an interactive US Superstore dashboard using Tableau to visualize trends and the revenue</li>
 <li>Automated data collection and visualization using Python</li>
-<br><br>.</p>
+<br><br></p>
 
 ###
 
