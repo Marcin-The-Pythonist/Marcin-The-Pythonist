@@ -7,7 +7,7 @@
 </div>
 
 ###
-
+<h3>About me</h3>
 <p align="left">Self-motivated data analyst with foundations in teleinformatics. Accomplished projects:
 <li>Conducted Exploratory Data Analysis of data science market across the world(2020-2024) uncovering different trends</li>
 <li>Developed an interactive US Superstore dashboard using Tableau to visualize trends and the revenue</li>
