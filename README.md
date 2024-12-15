@@ -8,7 +8,7 @@
 
 ###
 <h3>About me</h3>
-<p align="left">I'm a self-motivated data analyst with a foundation in teleinformatics. But tech is not all I do! I enjoy spending my time actively by going to the gym. I follow the principle that <i>a healthy body is a healthy mind</i>. <br>🎯 My current goal is to complete the Google Data Analyst course and then apply for jobs whilst continuing my education and enrolling on the Google Advanced Data Analytics course.🎯<br> 
+<p align="left">I'm a self-motivated data analyst with a foundation in teleinformatics. But tech is not all I do! I enjoy spending my time actively by going to the gym. I follow the principle that <i>a healthy body is a healthy mind</i>.<be><br>🎯 My current goal is to complete the Google Data Analyst course and then apply for jobs whilst continuing my education and enrolling on the Google Advanced Data Analytics course.🎯<be><be> 
 🏆Accomplished projects🏆
 <li>Conducted Exploratory Data Analysis of data science market across the world(2020-2024) uncovering different trends</li>
 <li>Developed an interactive US Superstore dashboard using Tableau to visualize trends and the revenue</li>
